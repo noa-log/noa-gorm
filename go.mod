@@ -3,7 +3,7 @@ module github.com/noa-log/noa-gorm
 go 1.24.2
 
 require (
-	github.com/noa-log/noa v0.0.0-20250609023229-3706c6a17b9a
+	github.com/noa-log/noa v1.0.0
 	gorm.io/driver/mysql v1.6.0
 	gorm.io/gorm v1.30.0
 )

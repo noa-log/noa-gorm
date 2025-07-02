@@ -10,6 +10,8 @@ github.com/noa-log/colorize v1.0.1 h1:sOLx+nPupbZOG1de2KQEsmOl+R4glANfvWElohUFgb
 github.com/noa-log/colorize v1.0.1/go.mod h1:HksMHNpWZYvlG+rmRQJLdMnNI1A3CCVIbbiESxFmUyU=
 github.com/noa-log/noa v0.0.0-20250609023229-3706c6a17b9a h1:n18k1W+aPJ+8iFqvDPn/vaCYk95MIeZdUE9frQaXDko=
 github.com/noa-log/noa v0.0.0-20250609023229-3706c6a17b9a/go.mod h1:xzwDSNzUeGEVnjWbTBR+IAycgpHIi2WxPi7Oqh2nhrw=
+github.com/noa-log/noa v1.0.0 h1:Jzhpafvg15NPpkkAa+7uLU8cwKb7qouIfykVkhibXTI=
+github.com/noa-log/noa v1.0.0/go.mod h1:xzwDSNzUeGEVnjWbTBR+IAycgpHIi2WxPi7Oqh2nhrw=
 golang.org/x/text v0.20.0 h1:gK/Kv2otX8gz+wn7Rmb3vT96ZwuoxnQlY+HlJVj7Qug=
 golang.org/x/text v0.20.0/go.mod h1:D4IsuqiFMhST5bX19pQ9ikHC2GsaKyk/oF+pn3ducp4=
 gorm.io/driver/mysql v1.6.0 h1:eNbLmNTpPpTOVZi8MMxCi2aaIm0ZpInbORNXDwyLGvg=
