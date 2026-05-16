@@ -43,7 +43,7 @@ func TestGormLog(t *testing.T) {
 	if err := DB.Table("user").Count(&UserCount).Error; err != nil {
 		t.Fatal(err)
 	}
-	t.Log(fmt.Sprintf("User count: %d", UserCount))
+	t.Logf("User count: %d", UserCount)
 
 	// slow log test
 	DB.Exec("SELECT SLEEP(3)")
